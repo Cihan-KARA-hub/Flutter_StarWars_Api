@@ -1,16 +1,20 @@
 # star_wars
 
-A new Flutter project.
+StarWars Api .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+bu projede StarWars karakterlerini ,gemilerini,gezegenleri vs tanıtan ve bunlar hakkında bilgi veren bir app projesidir .
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+# Örnek komutlar
+$ git clone https://github.com/yourusername/yourproject.git
+$ cd yourproject
+$ Start
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Paketler
+-Dio
+-cupertino_icons
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Arayüz
+https://www.loom.com/share/729bcecfbb5345fca19c682168b9c5b8?sid=91cb9dd2-6971-4df0-81c5-b33fdd8ada70
